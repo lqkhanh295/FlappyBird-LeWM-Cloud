@@ -1,0 +1,44 @@
+{
+  "timestamp": "2026-05-22T08:01:37.824403",
+  "python": {
+    "version": "3.10.20 (main, May 10 2026, 19:31:32) [MSC v.1944 64 bit (AMD64)]",
+    "version_info": {
+      "major": 3,
+      "minor": 10,
+      "micro": 20
+    },
+    "executable": "D:\\CODE\\NCKH\\le-wm\\.venv\\Scripts\\python.exe",
+    "prefix": "D:\\CODE\\NCKH\\le-wm\\.venv"
+  },
+  "system": {
+    "platform": "Windows-10-10.0.26200-SP0",
+    "system": "Windows",
+    "release": "10",
+    "machine": "AMD64",
+    "processor": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",
+    "hostname": "QuocKhanh"
+  },
+  "packages": {
+    "pip_freeze": "Error getting pip freeze: Command '['D:\\\\CODE\\\\NCKH\\\\le-wm\\\\.venv\\\\Scripts\\\\python.exe', '-m', 'pip', 'freeze']' returned non-zero exit status 1.",
+    "key_packages": {},
+    "total_packages": 0
+  },
+  "cuda": {
+    "nvidia_smi_output": "NVIDIA GeForce RTX 3050 Laptop GPU, 572.83, 4096 MiB",
+    "driver_version": "572.83"
+  },
+  "git": {
+    "commit_hash": "c8a44170b22dfe15b0b1924e2845da97af926c42",
+    "branch": "main",
+    "has_uncommitted_changes": true,
+    "uncommitted_changes": "M train.py\n M utils.py\n?? __pycache__/\n?? config/eval/flappybird.yaml\n?? config/train/data/flappybird.yaml\n?? environment.json\n?? environment_v1.json\n?? environment_v2.json\n?? lightning_logs/\n?? outputs/\n?? requirements_frozen.txt\n?? requirements_frozen_v1.txt\n?? requirements_frozen_v2.txt\n?? train_state_predictor.py",
+    "remote_url": "https://github.com/lucas-maes/le-wm"
+  },
+  "slurm": null,
+  "environment_variables": {
+    "PATH": "C:/Users/ACER/.gemini/antigravity/bin;C:\\Users\\ACER\\AppData\\Roaming\\Antigravity\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\nodejs\\;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\Cloudflare\\Cloudflare WARP\\;C:\\msys64\\ucrt64\\bin;C:\\Program Files (x86)\\Microsoft SQL Server\\170\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\180\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\170\\DTS\\Binn\\;c:\\Users\\ACER\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand;c:\\Users\\ACER\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli;C:\\Users\\ACER\\AppData\\Local\\Programs\\Microsoft VS Code;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\nodejs\\;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\Cloudflare\\Cloudflare WARP\\;C:\\Users\\ACER\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\ACER\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\ACER\\AppData\\Roaming\\npm;C:\\Users\\ACER\\AppData\\Local\\Microsoft\\WinGet\\Packages\\DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\\Users\\ACER\\AppData\\Local\\Microsoft\\WinGet\\Packages\\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\\ffmpeg-N-123074-g4e32fb4c2a-win64-gpl/bin;C:\\Users\\ACER\\AppData\\Local\\Microsoft\\WinGet\\Packages\\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\\Users\\ACER\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\\ffmpeg-8.0.1-full_build\\bin;C:\\Users\\ACER\\.dotnet\\tools;C:\\Users\\ACER\\AppData\\Local\\Programs\\Antigravity\\bin;C:\\Users\\ACER\\AppData\\Local\\PowerToys\\DSCModules\\;C:\\msys64\\ucrt64\\bin;C:\\msys64\\ucrt64\\bin;C:\\Users\\ACER\\.dotnet\\tools;C:\\Users\\ACER\\AppData\\Local\\Python\\bin",
+    "PATHEXT": ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL",
+    "CUDA_MODULE_LOADING": "LAZY",
+    "CUDA_DEVICE_ORDER": "PCI_BUS_ID"
+  }
+}

@@ -1,0 +1,1 @@
+Error getting pip freeze: Command '['D:\\CODE\\NCKH\\le-wm\\.venv\\Scripts\\python.exe', '-m', 'pip', 'freeze']' returned non-zero exit status 1.
